@@ -1,0 +1,7 @@
+pip install streamlit
+pip install seaborn
+pip install matplotlib
+
+pip install urlextract
+pip install wordcloud
+pip install emoji
